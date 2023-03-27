@@ -1,0 +1,31 @@
+p,
+h1 {
+    color:rgb(255, 255, 255);
+    font-size: 3em;
+    text-align: center;
+    background:linear-gradient(to right, #0f0c29,#302b63,#24243e);
+    padding: 80px;
+    font-family: 'Roboto', sans-serif;
+    border-style:dashed ;
+    border-radius: 10px;
+}
+
+h2 {
+    color:rgb(0, 0, 0);
+    font-size: 2em;
+    text-align: left;
+}
+
+.importent {
+    color:aqua
+}
+
+body {
+    font-family: 'Bitter', serif;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
